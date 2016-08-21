@@ -3,8 +3,16 @@
   <component name="ChangeListManager">
     <list id="48ee13dd-6ffb-4088-9d1d-b2056958e538" name="Default" comment="" />
     <list default="true" id="2b89c1d0-db4d-41bf-8b4d-bc98e98f00b2" name="Chapter 1 Addition" comment="Added the first program to chapter 1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/Exercise 3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/Exercise 4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise03.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise04.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise5.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 4.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LPTHW.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,6 +28,7 @@
     <SUITE FILE_PATH="coverage/LPTHW$Exercise_3.coverage" NAME="Exercise 3 Coverage Results" MODIFIED="1471810419818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
     <SUITE FILE_PATH="coverage/LPTHW$comments_ex.coverage" NAME="comments_ex Coverage Results" MODIFIED="1471809022120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2" />
     <SUITE FILE_PATH="coverage/LPTHW$Exercise_4.coverage" NAME="Exercise 4 Coverage Results" MODIFIED="1471811277188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/LPTHW$Exercise_5.coverage" NAME="Exercise 5 Coverage Results" MODIFIED="1471812665220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
     <SUITE FILE_PATH="coverage/LPTHW$a_good_first_program.coverage" NAME="a_good_first_program Coverage Results" MODIFIED="1471809000830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -31,8 +40,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercise 1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1.py">
+      <file leaf-file-name="exercise01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/exercise01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -41,31 +50,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise 2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2.py">
+      <file leaf-file-name="exercise02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/exercise02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise 3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercise 4.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4.py">
+      <file leaf-file-name="exercise04.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/exercise04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise03.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/exercise03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -97,6 +106,17 @@
         <option value="$PROJECT_DIR$/Exercises/Exercise 2.py" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 3.py" />
         <option value="$PROJECT_DIR$/Exercises/Exercise 4.py" />
+        <option value="$PROJECT_DIR$/Exercises/Exercise 5.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise5.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise1.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise2.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise3.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise4.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise01.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise02.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise03.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise04.py" />
+        <option value="$PROJECT_DIR$/Exercises/exercise05.py" />
       </list>
     </option>
   </component>
@@ -195,7 +215,7 @@
       <recent name="C:\Users\danie\PycharmProjects\LPTHW\Chapter 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercise 4">
+  <component name="RunManager" selected="Python.Exercise 5">
     <configuration default="false" name="a_good_first_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,6 +284,24 @@
       <module name="LPTHW" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Exercise 4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LPTHW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Exercise 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -476,18 +514,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.a_good_first_program" />
       <item index="1" class="java.lang.String" itemvalue="Python.comments_ex" />
       <item index="2" class="java.lang.String" itemvalue="Python.Exercise 3" />
       <item index="3" class="java.lang.String" itemvalue="Python.Exercise 4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Exercise 5" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercise 4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exercise 3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.comments_ex" />
-        <item index="3" class="java.lang.String" itemvalue="Python.a_good_first_program" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Exercise 5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercise 4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exercise 3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.comments_ex" />
+        <item index="4" class="java.lang.String" itemvalue="Python.a_good_first_program" />
       </list>
     </recent_temporary>
   </component>
@@ -532,9 +572,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="2" width="1046" height="1051" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14757282" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14757282" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -603,7 +643,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 1/comments_ex.py" />
     <entry file="file://$PROJECT_DIR$/Chapter 1/a_good_first_program.py" />
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -611,15 +699,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2.py">
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 3.py">
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
@@ -627,7 +715,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 4.py">
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
