@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="48ee13dd-6ffb-4088-9d1d-b2056958e538" name="Default" comment="" />
-    <list default="true" id="2b89c1d0-db4d-41bf-8b4d-bc98e98f00b2" name="Chapter 1 Addition" comment="Added the first program to chapter 1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise03.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise04.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise5.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/Exercise 4.py" afterPath="" />
+    <list default="true" id="2b89c1d0-db4d-41bf-8b4d-bc98e98f00b2" name="Chapter 1 Addition" comment="Changed all of the file names to be easier to understand.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise05.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercises/exercise5.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LPTHW.iws" />
@@ -26,9 +19,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LPTHW$Exercise_3.coverage" NAME="Exercise 3 Coverage Results" MODIFIED="1471810419818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/LPTHW$exercise05.coverage" NAME="exercise05 Coverage Results" MODIFIED="1471813469059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
     <SUITE FILE_PATH="coverage/LPTHW$comments_ex.coverage" NAME="comments_ex Coverage Results" MODIFIED="1471809022120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2" />
     <SUITE FILE_PATH="coverage/LPTHW$Exercise_4.coverage" NAME="Exercise 4 Coverage Results" MODIFIED="1471811277188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
-    <SUITE FILE_PATH="coverage/LPTHW$Exercise_5.coverage" NAME="Exercise 5 Coverage Results" MODIFIED="1471812665220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/LPTHW$Exercise_5.coverage" NAME="Exercise 5 Coverage Results" MODIFIED="1471813168035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
     <SUITE FILE_PATH="coverage/LPTHW$a_good_first_program.coverage" NAME="a_good_first_program Coverage Results" MODIFIED="1471809000830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -40,41 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exercise01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/exercise01.py">
+      <file leaf-file-name="exercise05.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/exercise05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise02.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/exercise02.py">
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise04.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/exercise04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercise03.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/exercise03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="4616">
+              <caret line="939" column="0" selection-start-line="939" selection-start-column="0" selection-end-line="939" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,6 +66,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Daniel &lt;carb0load@users.noreply.github.com&gt;" />
         <option value="Daniel &lt;dsislo@gmail.com&gt;" />
       </list>
     </option>
@@ -215,25 +190,7 @@
       <recent name="C:\Users\danie\PycharmProjects\LPTHW\Chapter 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercise 5">
-    <configuration default="false" name="a_good_first_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LPTHW" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 1/a_good_first_program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.exercise05">
     <configuration default="false" name="comments_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,6 +259,24 @@
       <module name="LPTHW" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Exercise 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exercise05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LPTHW" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/exercise05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -515,19 +490,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.a_good_first_program" />
-      <item index="1" class="java.lang.String" itemvalue="Python.comments_ex" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Exercise 3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Exercise 4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exercise 5" />
+      <item index="0" class="java.lang.String" itemvalue="Python.comments_ex" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exercise 3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Exercise 4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exercise 5" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exercise05" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercise 5" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exercise 4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exercise 3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.comments_ex" />
-        <item index="4" class="java.lang.String" itemvalue="Python.a_good_first_program" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exercise05" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercise 5" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exercise 4" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exercise 3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.comments_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -567,14 +542,21 @@
       <option name="project" value="LOCAL" />
       <updated>1471811546437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed all of the file names to be easier to understand.">
+      <created>1471813065904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1471813065904</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="2" width="1046" height="1051" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14757282" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14757282" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -584,7 +566,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995749" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -608,12 +590,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First program works as intended!" />
     <MESSAGE value="Added the first program to chapter 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the first program to chapter 1" />
+    <MESSAGE value="Changed all of the file names to be easier to understand." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed all of the file names to be easier to understand." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -739,10 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/exercise05.py">
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -755,10 +746,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/exercise04.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="4616">
+          <caret line="939" column="0" selection-start-line="939" selection-start-column="0" selection-end-line="939" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/exercise05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding />
         </state>
       </provider>
