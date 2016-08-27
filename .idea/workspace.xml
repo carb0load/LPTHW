@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="48ee13dd-6ffb-4088-9d1d-b2056958e538" name="Default" comment="" />
-    <list default="true" id="2b89c1d0-db4d-41bf-8b4d-bc98e98f00b2" name="Chapter 1 Addition" comment="Adding exercises 6 and 7.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise08.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise09.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercises/exercise11.py" />
+    <list default="true" id="2b89c1d0-db4d-41bf-8b4d-bc98e98f00b2" name="Chapter 1 Addition" comment="Addiing exercise 8 through 12!">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LPTHW.iws" />
@@ -596,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471911000920</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Addiing exercise 8 through 12!">
+      <created>1471989502292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1471989502292</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -609,7 +612,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -640,7 +643,8 @@
     <MESSAGE value="Changed all of the file names to be easier to understand." />
     <MESSAGE value="Added exercise 5 and changed the file name." />
     <MESSAGE value="Adding exercises 6 and 7." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding exercises 6 and 7." />
+    <MESSAGE value="Addiing exercise 8 through 12!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addiing exercise 8 through 12!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
